@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... following my curiosity at the moment! In Python, programming, documenting, design
 - 🌱 I’m currently learning Python, methods for documentation, some fundamentals of design
 - 💞️ I’m looking to collaborate on beginner/intermediate Python projects, including debugging
-- 📫 How to reach me ... message here or ask for email with a more specific collab idea :) 
+- 📫 How to reach me ... message here or ask for email for collab idea :) 
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm also a writer and artist
 
